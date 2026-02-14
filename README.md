@@ -1,3 +1,4 @@
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=1000&height=200&lines=SYSTEM+BOOTING...;LOADING+MODULES...;NEXUS+INITIALIZED;WELCOME+BACK+TALYUSH" />
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=00FF00&background=00000000&center=true&vCenter=true&width=700&lines=booting+system...;loading+modules...;initializing+NEXUS+engine...;access+granted.;welcome+back+talyush." />
 # TALYUSH // Cybersecurity Developer
 ⚫ talyush
